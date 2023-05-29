@@ -7,9 +7,8 @@
 
 ## Tugas Membuat Program dart Bilangan Nama dan Angka
 
-berikut adalah source code nya dan nama file nya :
+berikut adalah nama file nya `tugas-dart.dart`. dan source code nya : 
 
-`tugas-dart.dart`.
 ```
 import 'dart:io';
 
