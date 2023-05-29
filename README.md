@@ -2,16 +2,15 @@
 | ----------- | ----------- |
 | NIM     | 312010029       |
 | Kelas   | TI.20.A.1        |
-| ----------- | ----------- |
 | Matkul     | Pemrograman Mobile  |
 
 
-## Tugas Membuat Program dart
+## Tugas Membuat Program dart Bilangan Nama dan Angka
 
 berikut adalah source code nya dan nama file nya :
 
 `tugas-dart.dart`.
-
+```
 import 'dart:io';
 
 void main() {
@@ -27,7 +26,7 @@ void main() {
     print(i);
   }
 }
-
+```
 dan ini output nya :
 
 ![img](img/ss.png)
